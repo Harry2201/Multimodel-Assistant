@@ -1,0 +1,3 @@
+VERTEXAI_LOCATION: "us-central1"
+VERTEXAI_PROJECT_ID: "assistant001-456106"
+BACKEND_URL: "http://localhost:8081/chat"
